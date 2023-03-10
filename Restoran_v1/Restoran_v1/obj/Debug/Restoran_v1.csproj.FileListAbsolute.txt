@@ -1,0 +1,16 @@
+C:\Users\gokha\source\repos\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.csproj.AssemblyReference.cache
+C:\Users\gokha\source\repos\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokha\source\repos\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.csproj.CoreCompileInputs.cache
+C:\Users\gokha\source\repos\Restoran_v1\Restoran_v1\bin\Debug\Restoran_v1.exe.config
+C:\Users\gokha\source\repos\Restoran_v1\Restoran_v1\bin\Debug\Restoran_v1.exe
+C:\Users\gokha\source\repos\Restoran_v1\Restoran_v1\bin\Debug\Restoran_v1.pdb
+C:\Users\gokha\source\repos\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.exe
+C:\Users\gokha\source\repos\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.pdb
+C:\Users\gokha\Desktop\Restoran_v1\Restoran_v1\bin\Debug\Restoran_v1.exe.config
+C:\Users\gokha\Desktop\Restoran_v1\Restoran_v1\bin\Debug\Restoran_v1.exe
+C:\Users\gokha\Desktop\Restoran_v1\Restoran_v1\bin\Debug\Restoran_v1.pdb
+C:\Users\gokha\Desktop\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokha\Desktop\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.exe
+C:\Users\gokha\Desktop\Restoran_v1\Restoran_v1\obj\Debug\Restoran_v1.pdb
